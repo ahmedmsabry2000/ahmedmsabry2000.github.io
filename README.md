@@ -49,8 +49,8 @@
 **Electrical Test Engineering Co-op**  
 *Jun 2020 – Dec 2020*
 
-- Created a test automation application using C#, Java, and MATLAB that decreased testing time by up to 86%.
-- Developed MATLAB GUI applications to automate tests and decrease manual testing time by 70%.
+- Created a test automation framework using C#, Java, and MATLAB that **decreased manual testing time by up to 86%**.
+- Developed MATLAB GUI applications to automate tests and **decrease manual testing time by 70%**.
 - Ran formal test protocols to validate manufacturing processes for the Globe® ablation system.
 
 ## Education
@@ -71,8 +71,16 @@
 
 ### Skills
 
-- Python | R | MATLAB | Javascript/Typescript | C# | Java | C/C++ | SQL | Git | CI/CD | Docker | Kubernetes | AWS
+- **Programming Languages:** Python, R, JavaScript, TypeScript, C#, Java, MATLAB, C/C++  
+- **Frameworks & Libraries:** Flask, Angular, PyTorch  
+- **Cloud & DevOps:** Docker, Kubernetes, Helm, Istio, ArgoCD, Grafana, Jaeger, Git, CI/CD  
+- **Data Engineering & Databases:** Kafka, PostgreSQL  
+- **Domain Knowledge:** Power Systems & Smart Grids, Electrical Engineering Fundamentals  
 
 ### Interests
 
-- Artificial Intelligence | Data Engineering | Robotics and Automation | RFID | Circuit Design | Soccer | Chess
+- Physics-Informed Machine Learning⚛
+- Sustainability🌱
+- Robotics and Automation🤖
+- Soccer⚽
+- Chess♟️
