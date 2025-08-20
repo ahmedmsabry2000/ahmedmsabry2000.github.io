@@ -1,12 +1,10 @@
 title: Ahmed Sabry
+logo: assets/img/headshot.jpeg
 email: ahmedmsabry2000@gmail.com
 description: |
   Electrical, Software, and AI/ML engineering enthusiast with industry experience in power systems, 
   embedded development, and data-driven optimization. Passionate about leveraging technology to 
   solve complex real-world problems.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ahmedmsabry2000
 
-# Build settings
 theme: jekyll-theme-minimal

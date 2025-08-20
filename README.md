@@ -12,7 +12,19 @@
 ### GE Vernova, Toronto, ON
 
 **Software Engineer**  
-*Oct 2022 – Present*
+*Oct 2022 – July 2025*
+
+- Deployed a role-based access control (RBAC) system using Kubernetes and Istio to ensure secure access management within a microservices architecture.
+- Built an adapter that integrates with GE ADMS to publish Bus Load Allocation (BLA) data to Kafka, improving data quality and optimization analysis convergence.
+- Conducted a Minimum Viable Load Test on the DERMS product, monitoring performance against customer NFRs with Grafana, ArgoCD, and Kiali to establish performance benchmarks.
+- Implemented high-availability architecture on the Optimization module to ensure fault tolerance and distributivity.
+- Led technical debt and team prioritization initiatives, enhancing system maintainability and development workflows.
+- Designed and trained a deep neural network approximation of the Distributed Energy Resource Management System (DERMS) optimal scheduling solver, demonstrating better speed and comparable accuracy to the analytical solution.
+- Optimized network model correction performance by 20% by analyzing and refactoring performance bottlenecks.
+- Built a powerflow comparison tool that calculates Voltage vs. Feeder Distance and Per-Phase Power statistics and compares results between GE ADMS and the GridOS Optimization Engine.
+
+**Software Developer - Network Modelling**  
+*Oct 2022 – July 2025*
 
 - Deployed a role-based access control (RBAC) system using Kubernetes and Istio to ensure secure access management within a microservices architecture.
 - Built an adapter that integrates with GE ADMS to publish Bus Load Allocation (BLA) data to Kafka, improving data quality and optimization analysis convergence.
