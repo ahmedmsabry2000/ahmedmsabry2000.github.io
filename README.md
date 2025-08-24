@@ -14,6 +14,7 @@
 **Software Engineer**  
 *Feb 2023 – July 2025*
 
+- Developed a real-time power and controls visualization dashboard using Chart.js, Angular, and Kafka.
 - Deployed a role-based access control (RBAC) system using Kubernetes and Istio to ensure secure access management within a microservices architecture.
 - Built an adapter that integrates with GE ADMS to publish Bus Load Allocation (BLA) data to Kafka, improving data quality and optimization analysis convergence.
 - Conducted a Minimum Viable Load Test on the DERMS product, monitoring performance against customer NFRs with Grafana, ArgoCD, and Kiali to establish performance benchmarks.
@@ -61,6 +62,8 @@
 *Graduation Date: Jun 2022*  
 
 - Minor in Computer Science
+- [Dr. Gordon Springate Sr. Award in Engineering](https://engineering.ok.ubc.ca/2022/06/09/convocation-recognizes-engineering-excellence/)
+- [International Community Achievement Award](https://provost.ok.ubc.ca/2019/10/16/student-successes-october-2019-newsletter/)
 
 ### The University of Texas at Austin, Austin, TX
 
@@ -71,10 +74,12 @@
 
 ### Skills
 
-- **Programming Languages:** Python, R, JavaScript, TypeScript, C#, Java, MATLAB, C/C++  
+- **Programming Languages:** Python, R, JavaScript, TypeScript, C#, Java, MATLAB, C/C++, Verilog/VHDL
 - **Frameworks & Libraries:** Flask, Angular, PyTorch  
 - **Cloud & DevOps:** Docker, Kubernetes, Helm, Istio, ArgoCD, Grafana, Jaeger, Git, CI/CD  
-- **Data Engineering & Databases:** Kafka, PostgreSQL  
+- **Data Engineering & Databases:** Kafka, PostgreSQL
+- **Software:** GE ADMS, LTSpice, EasyEDA, SolidWorks
+- **Hardware:** Arduino/ESP32, Oscilloscope, Soldering Iron
 - **Domain Knowledge:** Power Systems & Smart Grids, Electrical Engineering Fundamentals  
 
 ### Interests
