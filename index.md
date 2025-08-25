@@ -70,6 +70,8 @@
 **Master in Data Science**  
 *Graduation Date: June 2026*
 
+- [Personal blog](https://ahmedsabry-ut.github.io/)
+
 ## Skills & Interests
 
 ### Skills
